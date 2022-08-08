@@ -76,3 +76,9 @@ body {
     padding-right: 500px;
     background-color: #fff;
 }
+.picHolder{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    padding: 40px;
+}
