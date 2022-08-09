@@ -84,10 +84,9 @@ body {
 }
 
 .box {
-    padding: 100px;
-    background: black;
-    min-height: 100px;
-    min-width: 100px;
-    border-color: blue;
-    margin: 25px;
+    height: 100px;
+    width: 100px;
+    margin: 0;
+    background-color: white;
+    border-style: solid;
 }
