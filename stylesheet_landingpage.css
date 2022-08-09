@@ -76,9 +76,18 @@ body {
     padding-right: 500px;
     background-color: #fff;
 }
-.picHolder{
-    justify-content: center;
-    display: flex;
-    align-items: center;
-    padding: 40px;
+
+.picHolder {
+    float: left;
+    padding: 22px 22px 22px 22px;
+    opacity: .85;
+}
+
+.box {
+    padding: 100px;
+    background: black;
+    min-height: 100px;
+    min-width: 100px;
+    border-color: blue;
+    margin: 25px;
 }
