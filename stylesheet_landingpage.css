@@ -97,8 +97,7 @@ body {
 
 .text {
     color: #4C5563;
-    display: flex;
     float: left;
-    padding-top: 25px;
+    padding-top: 10px;
 
 }
