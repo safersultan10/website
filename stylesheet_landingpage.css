@@ -75,6 +75,7 @@ body {
     padding-left: 500px;
     padding-right: 500px;
     background-color: #fff;
+    color: #1F2838;
 }
 
 .picHolder {
@@ -89,5 +90,6 @@ body {
     margin: 0;
     background-color: white;
     border-style: solid;
-    border-color: blue;
+    border-color: #3A82F6;
+
 }
