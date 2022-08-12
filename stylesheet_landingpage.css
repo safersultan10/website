@@ -95,7 +95,7 @@ body {
     text-align: center;
 }
 
-.header2 > div {
+.flexWrap {
     display: flex;
     gap: 22px;
     justify-content: center;
