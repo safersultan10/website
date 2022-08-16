@@ -123,5 +123,9 @@ body {
     font-size: large;
 }
 .ctaSection{
-    
+    background-color: #3A82f6;
+    max-width: 100px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 24px;
 }
