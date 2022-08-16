@@ -128,10 +128,13 @@ body {
     max-width: 100px;
     width: 100%;
     margin: 0 auto;
-    padding: 0 675px;
+    padding: 0 400px;
+    border-radius: 35px;
+    height: 100px;
+    color: #E5E7EB;
 }
 
 .ctaButton {
     float: right;
-
+    
 }
