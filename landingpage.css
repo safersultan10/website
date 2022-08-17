@@ -143,7 +143,11 @@ body {
     display: flex;
     justify-content: space-between;
     height: 32px;
-    border: 4px solid #fff;
+    border: 2px solid #fff;
+    border-color: #1F2838;
+    border-radius: 30px;
+    background-color: #3A82F6;
+    text-align: center;
 }
 
 .author {
