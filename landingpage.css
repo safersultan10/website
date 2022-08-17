@@ -137,15 +137,16 @@ body {
 }
 
 .ctaButton {
-    padding: 10px;
+    padding: 0;
     color: black;
-    opacity: 50%;
-    border: #fff;
-    width: 75px;
+    width: 144px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
+    height: 32px;
+
 }
 
 .author {
     text-align: right;
+    font-style: normal;
 }
