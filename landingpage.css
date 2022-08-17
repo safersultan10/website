@@ -132,12 +132,20 @@ body {
     border-radius: 35px;
     height: 100px;
     color: #E5E7EB;
+    display: flex;
+    justify-content: space-between;
 }
 
 .ctaButton {
-    padding: 0;
+    padding: 10px;
     color: black;
     opacity: 50%;
-    border-radius: 10px;
+    border: #fff;
+    width: 75px;
+    display: flex;
+    justify-content: space-evenly;
+}
 
+.author{
+    text-align: right;
 }
