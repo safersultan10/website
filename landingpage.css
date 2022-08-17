@@ -135,5 +135,8 @@ body {
 }
 
 .ctaButton {
-    
+    padding: 0;
+    color: black;
+    opacity: 50%;
+
 }
