@@ -133,21 +133,21 @@ body {
     height: 100px;
     color: #E5E7EB;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 .ctaButton {
     padding: 0;
     color: black;
-    width: 144px;
+    width: 200px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     height: 50px;
     border: 2px solid #fff;
     border-color: #1F2838;
     border-radius: 30px;
     background-color: #3A82F6;
-    text-align: center;
+    align-items: center;
 }
 
 .author {
